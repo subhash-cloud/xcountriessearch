@@ -1,0 +1,6 @@
+.search-container {
+  display: flex; 
+  justify-content: center; 
+  margin: 10px; 
+  background-color:#F8F8F8;
+}
